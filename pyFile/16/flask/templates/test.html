@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jquery test</title>
+    <script src="/static/js/jquery.js"></script>
+<!--    <script src = {{ url_for("static", filename="js/jquery.js") }}></script>-->
+
+    <script>
+        $(function () {
+            var flag = ture;
+            console.log(flag);
+
+            $(button.testcss).click(function (event) {
+                $('#title').css('color', flag?'red':'black');
+                flag = !flag;
+            })
+        })
+    </script>
+</head>
+<body>
+    <h3>jQuery 测试页</h3>
+    <hr>
+    <button class="testcss">CSS测试</button>
+
+
+
+</body>
+</html>

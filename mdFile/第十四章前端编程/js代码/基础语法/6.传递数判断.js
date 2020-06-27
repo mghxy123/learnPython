@@ -1,0 +1,5 @@
+console.log(Math.PI)
+console.log(Math.abs(-1))
+console.log(Math.log2(16))
+console.log(Math.sqrt(2))
+console.log(Math.random()) // 取值范围是0到1之间的随机数(0,1)

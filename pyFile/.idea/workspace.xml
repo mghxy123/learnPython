@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/练习/python习题/猴子偷桃问题.py" line="33" />
+    <bookmark url="file://$PROJECT_DIR$/练习/test.py" line="135" />
+    <bookmark url="file://$PROJECT_DIR$/算法/2.使用二分法判断学生成绩等级.py" line="19" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b94ba10-8afd-4051-94ca-3f4d3ed1d6ce" name="Default Changelist" comment="改变类方法的笔记结构">
+      <change beforePath="$PROJECT_DIR$/../mdFile/Python面试题/基础面试题.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mdFile/Python面试题/基础面试题.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习/python习题/求两个字串的公共子串.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1912" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/练习/python习题/日起计算.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="66" selection-start-line="66" selection-end-line="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/练习/python习题/ip转化为二进制数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>kwargs</find>
+      <find>test1</find>
+      <find>normcase</find>
+      <find>is</find>
+      <find>isdir</find>
+      <find>mkdir</find>
+      <find>deep</find>
+      <find>max</find>
+      <find>parent</find>
+      <find>the</find>
+      <find>file_list</find>
+      <find>world</find>
+      <find>a1</find>
+      <find>a2</find>
+      <find>ceil</find>
+      <find>math.</find>
+      <find>__class__</find>
+      <find>Size</find>
+      <find>_head</find>
+      <find>head</find>
+      <find>valur</find>
+      <find>data</find>
+      <find>this is self.tail</find>
+      <find>self.tail.next</find>
+      <find>append</find>
+      <find>test</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>keywords</replace>
+      <replace>word</replace>
+      <replace>s1</replace>
+      <replace>s2</replace>
+      <replace>floor</replace>
+      <replace>round</replace>
+      <replace>Shape</replace>
+      <replace>head</replace>
+      <replace>next</replace>
+      <replace>value</replace>
+      <replace>x</replace>
+      <replace>self.end</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/16/爬虫/doubanMovie.py" />
+        <option value="$PROJECT_DIR$/16/爬虫/lianjiaLogin.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/pika1.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/生产者.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/消费者.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/1生产多消费/消费者.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/1生产多消费/生产者.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/1生产多消费/readme.text" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/2一对多默认交换/生产者.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/2一对多默认交换/消费者.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/4一对多路由/消费者.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/5topic/生产者.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/4一对多路由/生产者.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/5topic/消费者.py" />
+        <option value="$PROJECT_DIR$/16/scrapy1/test1/settings.py" />
+        <option value="$PROJECT_DIR$/16/scrapy1/test1/items.py" />
+        <option value="$PROJECT_DIR$/16/scrapy1/test1/spiders/book.py" />
+        <option value="$PROJECT_DIR$/16/selenium1/selectBing.py" />
+        <option value="$PROJECT_DIR$/16/selenium1/登录链家.py" />
+        <option value="$PROJECT_DIR$/16/selenium1/登录oschina.py" />
+        <option value="$PROJECT_DIR$/16/selenium1/selenium搜索豆瓣电影.py" />
+        <option value="$PROJECT_DIR$/16/rabbitmq/5topic/ss.py" />
+        <option value="$PROJECT_DIR$/练习/test.py" />
+        <option value="$PROJECT_DIR$/练习/t1.py" />
+        <option value="$PROJECT_DIR$/16/redis/1.py" />
+        <option value="$PROJECT_DIR$/16/redis/2.py" />
+        <option value="$PROJECT_DIR$/16/redis/3.py" />
+        <option value="$PROJECT_DIR$/第六章文件IO/1.py" />
+        <option value="$PROJECT_DIR$/16/1.py" />
+        <option value="$PROJECT_DIR$/7文本处理/1.py" />
+        <option value="$PROJECT_DIR$/7文本处理/正则/指针.py" />
+        <option value="$PROJECT_DIR$/7文本处理/指针.py" />
+        <option value="$PROJECT_DIR$/7文本处理/缓冲区.py" />
+        <option value="$PROJECT_DIR$/7文本处理/正则/换行符.py" />
+        <option value="$PROJECT_DIR$/7文本处理/readfile.py" />
+        <option value="$PROJECT_DIR$/16/first/first/pipelines.py" />
+        <option value="$PROJECT_DIR$/16/first/first/spiders/book.py" />
+        <option value="$PROJECT_DIR$/16/first/first/settings.py" />
+        <option value="$PROJECT_DIR$/16/first/first/spiders/dbbook.py" />
+        <option value="$PROJECT_DIR$/16/first/first/aa.py" />
+        <option value="$PROJECT_DIR$/16/first/first/items.py" />
+        <option value="$PROJECT_DIR$/16/flask/app.py" />
+        <option value="$PROJECT_DIR$/16/flask/templates.py" />
+        <option value="$PROJECT_DIR$/16/flask/templates/index.html" />
+        <option value="$PROJECT_DIR$/16/flask/webapp/books.py" />
+        <option value="$PROJECT_DIR$/16/flask/templates/test.html" />
+        <option value="$PROJECT_DIR$/第六章文件IO/上下文管理.py" />
+        <option value="$PROJECT_DIR$/16/flask/webapp/__init__.py" />
+        <option value="$PROJECT_DIR$/练习/python习题/日起计算.py" />
+        <option value="$PROJECT_DIR$/练习/python习题/ip转化为二进制整形.py" />
+        <option value="$PROJECT_DIR$/练习/python习题/ip转化为二进制数.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="642" />
+    <option name="y" value="17" />
+    <option name="width" value="922" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyFile" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyFile" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+              <item name="python习题" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/16/rabbitmq/5topic" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="马哥" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="马哥" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\learnPython\pyFile\练习\python习题" />
+      <recent name="C:\Users\Administrator\Desktop\learnPython\pyFile\16\flask\static\js" />
+      <recent name="C:\Users\Administrator\Desktop\learnPython\pyFile\7文本处理" />
+      <recent name="C:\Users\Administrator\Desktop\learnPython\pyFile\16\Celery" />
+      <recent name="C:\Users\Administrator\Desktop\learnPython\pyFile\16\rabbitmq\3.一对多,订阅" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\learnPython\pyFile\16\rabbitmq\5topic" />
+      <recent name="C:\Users\Administrator\Desktop\learnPython\pyFile\16\rabbitmq\4一对多路由" />
+      <recent name="C:\Users\Administrator\Desktop\learnPython\pyFile\16\rabbitmq\2一对多默认交换" />
+      <recent name="C:\Users\Administrator\Desktop\learnPython\pyFile\16\rabbitmq\1最简单的Q" />
+      <recent name="C:\Users\Administrator\Desktop\马哥\面向对象,类\练习" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ip转化为二进制整形">
+    <configuration name="上下文管理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="马哥" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第六章文件IO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第六章文件IO/上下文管理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="日起计算" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="马哥" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习/python习题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/python习题/日起计算.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="换行符" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="马哥" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7文本处理/正则" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\learnPython\pyFile\7文本处理\换行符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="马哥" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16/flask/webapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16/flask/webapp/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="马哥" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16/flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16/flask/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ip转化为二进制整形" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="马哥" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习/python习题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\learnPython\pyFile\练习\python习题\ip转化为二进制数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ss (1)" type="PythonConfigurationType" factoryName="Python">
+      <module name="马哥" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\Desktop\django\pyenv\env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16/rabbitmq/5topic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16/rabbitmq/5topic/ss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ss (1)" />
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.上下文管理" />
+      <item itemvalue="Python.日起计算" />
+      <item itemvalue="Python.ip转化为二进制整形" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ip转化为二进制整形" />
+        <item itemvalue="Python.日起计算" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.上下文管理" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b94ba10-8afd-4051-94ca-3f4d3ed1d6ce" name="Default Changelist" comment="" />
+      <created>1555933707551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555933707551</updated>
+      <workItem from="1555933710410" duration="4681000" />
+      <workItem from="1555979965544" duration="30114000" />
+      <workItem from="1556066932218" duration="24775000" />
+      <workItem from="1556112974379" duration="717000" />
+      <workItem from="1556153609294" duration="27794000" />
+      <workItem from="1556240620371" duration="8841000" />
+      <workItem from="1556328226410" duration="19590000" />
+      <workItem from="1556412758295" duration="5092000" />
+      <workItem from="1556499207034" duration="7564000" />
+      <workItem from="1556587810278" duration="25437000" />
+      <workItem from="1556781291099" duration="12527000" />
+      <workItem from="1556939029867" duration="445000" />
+      <workItem from="1556946773656" duration="15155000" />
+      <workItem from="1557018344815" duration="9019000" />
+      <workItem from="1557102931400" duration="10845000" />
+      <workItem from="1557145982347" duration="6754000" />
+      <workItem from="1557190161111" duration="4186000" />
+      <workItem from="1557237385822" duration="36000" />
+      <workItem from="1557237460467" duration="184000" />
+      <workItem from="1557237662045" duration="2156000" />
+      <workItem from="1557277503871" duration="23954000" />
+      <workItem from="1557329162779" duration="1691000" />
+      <workItem from="1557364401843" duration="18105000" />
+      <workItem from="1557452988654" duration="21728000" />
+      <workItem from="1557486387364" duration="1191000" />
+      <workItem from="1557537862117" duration="6592000" />
+      <workItem from="1557622752102" duration="15581000" />
+      <workItem from="1557709698291" duration="5985000" />
+      <workItem from="1557881132177" duration="2615000" />
+      <workItem from="1557972379359" duration="26764000" />
+      <workItem from="1558011071152" duration="2058000" />
+      <workItem from="1558014196188" duration="5459000" />
+      <workItem from="1558053944482" duration="11146000" />
+      <workItem from="1558093762431" duration="4448000" />
+      <workItem from="1558099034114" duration="183000" />
+      <workItem from="1558099234810" duration="5554000" />
+      <workItem from="1558143471930" duration="8411000" />
+      <workItem from="1558313722900" duration="19776000" />
+      <workItem from="1558400469764" duration="12660000" />
+      <workItem from="1558447776559" duration="7532000" />
+      <workItem from="1558486762320" duration="23689000" />
+      <workItem from="1558527797431" duration="8677000" />
+      <workItem from="1558613751484" duration="1528000" />
+      <workItem from="1558619792107" duration="1414000" />
+      <workItem from="1558659685052" duration="13710000" />
+      <workItem from="1558708143858" duration="2898000" />
+      <workItem from="1558748759925" duration="30337000" />
+      <workItem from="1558797171415" duration="769000" />
+      <workItem from="1558798209024" duration="58000" />
+      <workItem from="1558798307284" duration="26667000" />
+      <workItem from="1558918647827" duration="53302000" />
+      <workItem from="1559091130611" duration="27744000" />
+      <workItem from="1559182875845" duration="17651000" />
+      <workItem from="1559212539298" duration="8149000" />
+      <workItem from="1559264430041" duration="2099000" />
+      <workItem from="1564108293177" duration="305000" />
+      <workItem from="1564108731736" duration="5464000" />
+      <workItem from="1564207561602" duration="29007000" />
+      <workItem from="1564536063523" duration="451000" />
+      <workItem from="1564537227359" duration="263000" />
+      <workItem from="1564537529046" duration="261000" />
+      <workItem from="1564537829629" duration="636000" />
+      <workItem from="1564543757016" duration="919000" />
+      <workItem from="1564576616825" duration="102000" />
+      <workItem from="1564803393470" duration="8591000" />
+      <workItem from="1565161366168" duration="24609000" />
+      <workItem from="1566024270329" duration="21915000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1558798358574</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558798358574</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1558832879288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558832879288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加 魔术方法的上下文管理">
+      <created>1558843250035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558843250035</updated>
+    </task>
+    <task id="LOCAL-00004" summary="作业单列表">
+      <created>1558880844125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558880844126</updated>
+    </task>
+    <task id="LOCAL-00005" summary="改变类方法的笔记结构">
+      <created>1558923339825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558923339825</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="728560000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="642" y="17" width="922" height="1035" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28306264" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33573487" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.354618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.58608896" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36716077" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32947975" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23117338" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33573487" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36459553" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.58608896" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36944127" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32947975" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="增加 魔术方法的上下文管理" />
+    <MESSAGE value="作业单列表" />
+    <MESSAGE value="改变类方法的笔记结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="改变类方法的笔记结构" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/练习/python习题/插入排序.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$1_re.coverage" NAME="1.re模块 Coverage Results" MODIFIED="1557279864580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7正则" />
+    <SUITE FILE_PATH="coverage/pyFile$app.coverage" NAME="app Coverage Results" MODIFIED="1566088919152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/flask" />
+    <SUITE FILE_PATH="coverage/$3_re.coverage" NAME="3.re模块之替换匹配 Coverage Results" MODIFIED="1557281588361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7正则" />
+    <SUITE FILE_PATH="coverage/$17_.coverage" NAME="17.对象的销毁 Coverage Results" MODIFIED="1558104213041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类" />
+    <SUITE FILE_PATH="coverage/pyFile$doubanMovie.coverage" NAME="doubanMovie Coverage Results" MODIFIED="1564285098746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/爬虫" />
+    <SUITE FILE_PATH="coverage/$10_.coverage" NAME="10.方法的调用 Coverage Results" MODIFIED="1558018391565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类" />
+    <SUITE FILE_PATH="coverage/$4_2.coverage" NAME="4.装饰器的应用2 Coverage Results" MODIFIED="1555987853991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/装饰器" />
+    <SUITE FILE_PATH="coverage/pyFile$7_.coverage" NAME="7.名词空间 Coverage Results" MODIFIED="1559208680163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第一节/模块化代码" />
+    <SUITE FILE_PATH="coverage/pyFile$pika1.coverage" NAME="pika1 Coverage Results" MODIFIED="1564298764541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/rabbitmq" />
+    <SUITE FILE_PATH="coverage/pyFile$2_dir_.coverage" NAME="2.dir和本地,全局变量的关系 Coverage Results" MODIFIED="1559215348033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/2.面向对象的魔术方法(高阶)/1.查看属性的方法(dir)" />
+    <SUITE FILE_PATH="coverage/$8_.coverage" NAME="8.自定义异常类 Coverage Results" MODIFIED="1558452346450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/pyFile$12_.coverage" NAME="12.反向操作符 Coverage Results" MODIFIED="1558953912427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.描述器/随堂笔记" />
+    <SUITE FILE_PATH="coverage/$5_re.coverage" NAME="5.re模块之分组 Coverage Results" MODIFIED="1557285228744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7正则" />
+    <SUITE FILE_PATH="coverage/$4_re.coverage" NAME="4.re模块之分割字符串 Coverage Results" MODIFIED="1557282734529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7正则" />
+    <SUITE FILE_PATH="coverage/$1_.coverage" NAME="1.坐标判断 Coverage Results" MODIFIED="1558512743901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/练习" />
+    <SUITE FILE_PATH="coverage/$11_finally.coverage" NAME="11.finally子句 Coverage Results" MODIFIED="1558528422146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/pyFile$9_getattribute.coverage" NAME="9.魔术方法getattribute Coverage Results" MODIFIED="1559012091539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.反射" />
+    <SUITE FILE_PATH="coverage/pyFile$3_slots.coverage" NAME="3.slots的继承 Coverage Results" MODIFIED="1559057981710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/知识补充" />
+    <SUITE FILE_PATH="coverage/$1_2.coverage" NAME="1.2随机整数生成类 Coverage Results" MODIFIED="1558144118801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/$2__.coverage" NAME="2.偏函数_原码 Coverage Results" MODIFIED="1556189835409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/偏函数" />
+    <SUITE FILE_PATH="coverage/$2_.coverage" NAME="2.使用二分法判断学生成绩等级 Coverage Results" MODIFIED="1558492753038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/magePython$3_.coverage" NAME="3.算法装饰器 Coverage Results" MODIFIED="1558786566098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/6.运算符重载" />
+    <SUITE FILE_PATH="coverage/pyFile$11_.coverage" NAME="11.使用描述器做数据检查 Coverage Results" MODIFIED="1559034169906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/自己笔记" />
+    <SUITE FILE_PATH="coverage/$9_.coverage" NAME="9.异常的多重捕获 Coverage Results" MODIFIED="1558453442459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/pyFile$ss__1_.coverage" NAME="ss (1) Coverage Results" MODIFIED="1564537721209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/rabbitmq/5topic" />
+    <SUITE FILE_PATH="coverage/$2ip.coverage" NAME="2匹配ip Coverage Results" MODIFIED="1557475471703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7正则/习题" />
+    <SUITE FILE_PATH="coverage/$16_.coverage" NAME="16.异常的捕获时机 Coverage Results" MODIFIED="1558532326208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/pyFile$10_getattribute.coverage" NAME="10.模式方法getattribute抛异常 Coverage Results" MODIFIED="1559023829614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.反射" />
+    <SUITE FILE_PATH="coverage/pyFile$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1559227672435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第二节/3.模块的属性" />
+    <SUITE FILE_PATH="coverage/pyFile$1_tracemalloc.coverage" NAME="1.tracemalloc模块 Coverage Results" MODIFIED="1559037580020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/知识补充" />
+    <SUITE FILE_PATH="coverage/pyFile$6__.coverage" NAME="6.练习-类方法 Coverage Results" MODIFIED="1558941403472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.描述器/随堂笔记" />
+    <SUITE FILE_PATH="coverage/pyFile$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1565167613047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/pyFile$selenium.coverage" NAME="selenium搜索豆瓣电影 Coverage Results" MODIFIED="1564537867756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/selenium1" />
+    <SUITE FILE_PATH="coverage/$1_shutil.coverage" NAME="1.shutil文件处理 Coverage Results" MODIFIED="1556596116760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件处理" />
+    <SUITE FILE_PATH="coverage/pyFile$8_.coverage" NAME="8.类方法的覆盖行为 Coverage Results" MODIFIED="1559029060100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/自己笔记" />
+    <SUITE FILE_PATH="coverage/pyFile$5_.coverage" NAME="5.运算符重载中的反向方法 Coverage Results" MODIFIED="1559059956411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/知识补充" />
+    <SUITE FILE_PATH="coverage/$base64.coverage" NAME="实现base64解码 Coverage Results" MODIFIED="1557306153081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/pyFile$5_as.coverage" NAME="5.理解as字句 Coverage Results" MODIFIED="1558837488146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/8.上下文管理" />
+    <SUITE FILE_PATH="coverage/pyFile$1_test.coverage" NAME="1.test Coverage Results" MODIFIED="1559227679681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第二节/4.包" />
+    <SUITE FILE_PATH="coverage/magePython$aa.coverage" NAME="aa Coverage Results" MODIFIED="1558666757876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1558351394145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/pyFile$4_as.coverage" NAME="4.使用as字句 Coverage Results" MODIFIED="1558836259827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/8.上下文管理" />
+    <SUITE FILE_PATH="coverage/$1_3.coverage" NAME="1.3随机整数生成类 Coverage Results" MODIFIED="1558144510960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/pyFile$readfile.coverage" NAME="readfile Coverage Results" MODIFIED="1566003171488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7文本处理" />
+    <SUITE FILE_PATH="coverage/magePython$1_bool.coverage" NAME="1.bool判断 Coverage Results" MODIFIED="1558774517699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/5.bool方法" />
+    <SUITE FILE_PATH="coverage/pyFile$7__.coverage" NAME="7.练习-参数类型检查 Coverage Results" MODIFIED="1558948051033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.描述器/随堂笔记" />
+    <SUITE FILE_PATH="coverage/pyFile$t3.coverage" NAME="t3 Coverage Results" MODIFIED="1559214954671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第一节/模块化代码/8.自定义模块" />
+    <SUITE FILE_PATH="coverage/$2_1.coverage" NAME="2.1打印坐标 Coverage Results" MODIFIED="1558149478433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/$1_lambda.coverage" NAME="1.lambda函数 Coverage Results" MODIFIED="1557042663563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数/匿名函数" />
+    <SUITE FILE_PATH="coverage/pyFile$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1564121285728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16" />
+    <SUITE FILE_PATH="coverage/pyFile$8_delattr.coverage" NAME="8.魔术方法delattr Coverage Results" MODIFIED="1559011799336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.反射" />
+    <SUITE FILE_PATH="coverage/pyFile$10_.coverage" NAME="10.对实例的数据进行检验 Coverage Results" MODIFIED="1559033058462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/自己笔记" />
+    <SUITE FILE_PATH="coverage/magePython$_.coverage" NAME="练习,两个向量的运算 Coverage Results" MODIFIED="1558786169073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/6.运算符重载" />
+    <SUITE FILE_PATH="coverage/$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1558099506974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/猴子补丁" />
+    <SUITE FILE_PATH="coverage/pyFile$book.coverage" NAME="book Coverage Results" MODIFIED="1566005550720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/first/first/spiders" />
+    <SUITE FILE_PATH="coverage/magePython$4_.coverage" NAME="4.斐波那契数列 Coverage Results" MODIFIED="1558794480801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/8.call方法可调用对象" />
+    <SUITE FILE_PATH="coverage/pyFile$12_inspect.coverage" NAME="12.使用inspect模块解决问题 Coverage Results" MODIFIED="1559035630567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/自己笔记" />
+    <SUITE FILE_PATH="coverage/pyFile$2_slots.coverage" NAME="2.slots方法节约内存 Coverage Results" MODIFIED="1559057723046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/知识补充" />
+    <SUITE FILE_PATH="coverage/pyFile$ip.coverage" NAME="ip转化为二进制整形 Coverage Results" MODIFIED="1566893275014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/python习题" />
+    <SUITE FILE_PATH="coverage/pyFile$9_.coverage" NAME="9.搜索顺序 Coverage Results" MODIFIED="1559215376233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第一节/模块化代码" />
+    <SUITE FILE_PATH="coverage/pyFile$pop.coverage" NAME="双向链表pop Coverage Results" MODIFIED="1559101697358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.面向对象/5.多继承/作业" />
+    <SUITE FILE_PATH="coverage/pyFile$2_get.coverage" NAME="2.描述器get Coverage Results" MODIFIED="1559024239389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/自己笔记" />
+    <SUITE FILE_PATH="coverage/magePython$1_.coverage" NAME="1.可调用对象 Coverage Results" MODIFIED="1558791330870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/8.call方法可调用对象" />
+    <SUITE FILE_PATH="coverage/pyFile$use_xpath.coverage" NAME="use_xpath Coverage Results" MODIFIED="1564278161502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/爬虫" />
+    <SUITE FILE_PATH="coverage/pyFile$10_python.coverage" NAME="10.python内存使用查看 Coverage Results" MODIFIED="1558950202384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.描述器/随堂笔记" />
+    <SUITE FILE_PATH="coverage/pyFile$1__3_.coverage" NAME="1 (3) Coverage Results" MODIFIED="1565860701887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7文本处理" />
+    <SUITE FILE_PATH="coverage/$11_.coverage" NAME="11.访问控制（私有属性） Coverage Results" MODIFIED="1558055097191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类" />
+    <SUITE FILE_PATH="coverage/$4_.coverage" NAME="4.捕获指定的异常 Coverage Results" MODIFIED="1558450559725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/pyFile$2.coverage" NAME="2 Coverage Results" MODIFIED="1565420199275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/redis" />
+    <SUITE FILE_PATH="coverage/pyFile$sendMail2.coverage" NAME="sendMail2 Coverage Results" MODIFIED="1564208277888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16" />
+    <SUITE FILE_PATH="coverage/pyFile$11.coverage" NAME="11 Coverage Results" MODIFIED="1558951594796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.描述器/随堂笔记" />
+    <SUITE FILE_PATH="coverage/$2_new.coverage" NAME="2.new方法 Coverage Results" MODIFIED="1558506261896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)" />
+    <SUITE FILE_PATH="coverage/pyFile$6_.coverage" NAME="6.加载与初始化 Coverage Results" MODIFIED="1559208124908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第一节/模块化代码" />
+    <SUITE FILE_PATH="coverage/pyFile$8__.coverage" NAME="8.练习-参数类型检查 Coverage Results" MODIFIED="1558947168978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.描述器/随堂笔记" />
+    <SUITE FILE_PATH="coverage/$1_0_999.coverage" NAME="1.匹配0-999之间的任意数 Coverage Results" MODIFIED="1557468719554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7正则/习题" />
+    <SUITE FILE_PATH="coverage/pyFile$7_set_name.coverage" NAME="7.set_name方法 Coverage Results" MODIFIED="1559028120335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/自己笔记" />
+    <SUITE FILE_PATH="coverage/pyFile$13_.coverage" NAME="13.把类当做装饰器来实现功能 Coverage Results" MODIFIED="1559036700382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/自己笔记" />
+    <SUITE FILE_PATH="coverage/$1_1.coverage" NAME="1.继承1 Coverage Results" MODIFIED="1558353420229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/3.继承" />
+    <SUITE FILE_PATH="coverage/$7_.coverage" NAME="7.语法错误 Coverage Results" MODIFIED="1558452477130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/pyFile$9__.coverage" NAME="9.练习-实现类的静态方法 Coverage Results" MODIFIED="1559031785464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/5.描述器/自己笔记" />
+    <SUITE FILE_PATH="coverage/magePython$2_boollen.coverage" NAME="2.bool与len Coverage Results" MODIFIED="1558776362960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/5.bool方法" />
+    <SUITE FILE_PATH="coverage/$2_csv.coverage" NAME="2.csv文件处理 Coverage Results" MODIFIED="1556952804076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件处理" />
+    <SUITE FILE_PATH="coverage/pyFile$lianjiaLogin.coverage" NAME="lianjiaLogin Coverage Results" MODIFIED="1564294077394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/爬虫" />
+    <SUITE FILE_PATH="coverage/$1_6.coverage" NAME="1.6随机整数生成类 Coverage Results" MODIFIED="1558146556187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/pyFile$3_.coverage" NAME="3.模块的导入 Coverage Results" MODIFIED="1559206879350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第一节/模块化代码" />
+    <SUITE FILE_PATH="coverage/pyFile$t2__1_.coverage" NAME="t2 (1) Coverage Results" MODIFIED="1559216419424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第二节/1.模块的重复导入" />
+    <SUITE FILE_PATH="coverage/$2_ls.coverage" NAME="2.编写ls基本命令 Coverage Results" MODIFIED="1557391816129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/用python做简单的ls命令" />
+    <SUITE FILE_PATH="coverage/$4__.coverage" NAME="4.序列化 与反序列化 Coverage Results" MODIFIED="1556959191147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件处理" />
+    <SUITE FILE_PATH="coverage/$3_ls.coverage" NAME="3.编写ls的属性输出功能 Coverage Results" MODIFIED="1557394137138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/用python做简单的ls命令" />
+    <SUITE FILE_PATH="coverage/magePython$3_call.coverage" NAME="3.使用call方法实现累加 Coverage Results" MODIFIED="1558793338301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/8.call方法可调用对象" />
+    <SUITE FILE_PATH="coverage/pyFile$1_append.coverage" NAME="1.单链表作业append Coverage Results" MODIFIED="1559182540597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.面向对象/5.多继承/作业/链表" />
+    <SUITE FILE_PATH="coverage/$5_bool.coverage" NAME="5.bool方法 Coverage Results" MODIFIED="1558513537006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)" />
+    <SUITE FILE_PATH="coverage/magePython$4_hash.coverage" NAME="4.哈希hash方法 Coverage Results" MODIFIED="1558769131037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/1.哈西方法" />
+    <SUITE FILE_PATH="coverage/pyFile$6_exit.coverage" NAME="6.exit获取异常信息 Coverage Results" MODIFIED="1558838010776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/8.上下文管理" />
+    <SUITE FILE_PATH="coverage/pyFile$__1_.coverage" NAME="消费者 (1) Coverage Results" MODIFIED="1564300837870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/rabbitmq/1生产多消费" />
+    <SUITE FILE_PATH="coverage/$3_1.coverage" NAME="3.1车辆信息管理 Coverage Results" MODIFIED="1558151157629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/pyFile$4_gatattr.coverage" NAME="4.魔术方法gatattr Coverage Results" MODIFIED="1559008689950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.反射" />
+    <SUITE FILE_PATH="coverage/$5_sizeh.coverage" NAME="5.修改size为参数类型h的方式 Coverage Results" MODIFIED="1557485094576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/用python做简单的ls命令" />
+    <SUITE FILE_PATH="coverage/$14_.coverage" NAME="14.私有方法 Coverage Results" MODIFIED="1558096423307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类" />
+    <SUITE FILE_PATH="coverage/$1_5.coverage" NAME="1.5随机整数生成类 Coverage Results" MODIFIED="1558145844587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/$3_ini.coverage" NAME="3.ini文件处理 Coverage Results" MODIFIED="1556974411003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件处理" />
+    <SUITE FILE_PATH="coverage/pyFile$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1565511983730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第六章文件IO" />
+    <SUITE FILE_PATH="coverage/pyFile$2_.coverage" NAME="2.模块的导入 Coverage Results" MODIFIED="1559206727456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第一节/模块化代码" />
+    <SUITE FILE_PATH="coverage/pyFile$__2_.coverage" NAME="生产者 (2) Coverage Results" MODIFIED="1564303051899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/rabbitmq/2一对多默认交换" />
+    <SUITE FILE_PATH="coverage/pyFile$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1559217335668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第二节/2.模块运行__mane__" />
+    <SUITE FILE_PATH="coverage/$1_Python23.coverage" NAME="1.Python2和3的类比较 Coverage Results" MODIFIED="1558404369598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/5。多继承" />
+    <SUITE FILE_PATH="coverage/pyFile$3_insert.coverage" NAME="3.双向链表新增insert方法 Coverage Results" MODIFIED="1559205122027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.面向对象/5.多继承/作业/my" />
+    <SUITE FILE_PATH="coverage/$1_4.coverage" NAME="1.4随机整数生成类 Coverage Results" MODIFIED="1558145348580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/$17_else.coverage" NAME="17.else子句 Coverage Results" MODIFIED="1558532990470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/pyFile$selectBing.coverage" NAME="selectBing Coverage Results" MODIFIED="1564487984467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/selenium1" />
+    <SUITE FILE_PATH="coverage/$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1558100097130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/猴子补丁" />
+    <SUITE FILE_PATH="coverage/$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1556785947355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件处理/test_dir" />
+    <SUITE FILE_PATH="coverage/pyFile$1__2_.coverage" NAME="1 (2) Coverage Results" MODIFIED="1565513438466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16" />
+    <SUITE FILE_PATH="coverage/$5_.coverage" NAME="5.系统异常 Coverage Results" MODIFIED="1558450808490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/pyFile$4_set_name.coverage" NAME="4.set_name Coverage Results" MODIFIED="1558938399769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.描述器/随堂笔记" />
+    <SUITE FILE_PATH="coverage/$4_all.coverage" NAME="4.新增all功能查看隐藏文件 Coverage Results" MODIFIED="1557479858404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/用python做简单的ls命令" />
+    <SUITE FILE_PATH="coverage/$__1_.coverage" NAME="取单词 (1) Coverage Results" MODIFIED="1557364507043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/$13_.coverage" NAME="13.保护变量 Coverage Results" MODIFIED="1558078202883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类" />
+    <SUITE FILE_PATH="coverage/$3_.coverage" NAME="3.利用魔术方法来做容器 Coverage Results" MODIFIED="1558519966319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/练习" />
+    <SUITE FILE_PATH="coverage/$14_try.coverage" NAME="14.try的嵌套 Coverage Results" MODIFIED="1558531096446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/pyFile$aa.coverage" NAME="aa Coverage Results" MODIFIED="1566012562946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/first/first" />
+    <SUITE FILE_PATH="coverage/$2_isub.coverage" NAME="2.利用isub完成坐标相加 Coverage Results" MODIFIED="1558516909636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/练习" />
+    <SUITE FILE_PATH="coverage/$12_.coverage" NAME="12.异常的向外抛出 Coverage Results" MODIFIED="1558530239252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/$10_as.coverage" NAME="10.as子句 Coverage Results" MODIFIED="1558455094217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/magePython$cat.coverage" NAME="cat Coverage Results" MODIFIED="1558755863877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/1.查看属性的方法(dir)" />
+    <SUITE FILE_PATH="coverage/pyFile$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1559226470970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第二节/2.模块运行__mane__" />
+    <SUITE FILE_PATH="coverage/pyFile$2_insert.coverage" NAME="2.双向列表insert Coverage Results" MODIFIED="1559202523014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.面向对象/5.多继承/作业/链表" />
+    <SUITE FILE_PATH="coverage/pyFile$1_.coverage" NAME="1.模块的导入 Coverage Results" MODIFIED="1559205812222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第一节/模块化代码" />
+    <SUITE FILE_PATH="coverage/$5_inijson.coverage" NAME="5.解析ini为json Coverage Results" MODIFIED="1557126801017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件处理/作业" />
+    <SUITE FILE_PATH="coverage/magePython$4_fib.coverage" NAME="4.fib斐波那契数列 Coverage Results" MODIFIED="1558668474043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/练习" />
+    <SUITE FILE_PATH="coverage/pyFile$test.coverage" NAME="test Coverage Results" MODIFIED="1564825410345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/magePython$test.coverage" NAME="test Coverage Results" MODIFIED="1558750610248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/练习" />
+    <SUITE FILE_PATH="coverage/pyFile$setgetattr.coverage" NAME="模式方法set和getattr的综合使用 Coverage Results" MODIFIED="1559011354735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.反射" />
+    <SUITE FILE_PATH="coverage/pyFile$ss.coverage" NAME="ss Coverage Results" MODIFIED="1564537682799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/rabbitmq/5topic" />
+    <SUITE FILE_PATH="coverage/pyFile$5_from.coverage" NAME="5.from语句 Coverage Results" MODIFIED="1559207647736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第一节/模块化代码" />
+    <SUITE FILE_PATH="coverage/$check.coverage" NAME="check Coverage Results" MODIFIED="1556613565269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件处理/作业" />
+    <SUITE FILE_PATH="coverage/magePython$2_dir_.coverage" NAME="2.dir和本地,全局变量的关系 Coverage Results" MODIFIED="1558764764563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/1.查看属性的方法(dir)" />
+    <SUITE FILE_PATH="coverage/magePython$1_missing.coverage" NAME="1.missing方法 Coverage Results" MODIFIED="1558788355695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/7.容器相关" />
+    <SUITE FILE_PATH="coverage/$5_logger.coverage" NAME="5.装饰器logger功能 Coverage Results" MODIFIED="1555991729994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/装饰器" />
+    <SUITE FILE_PATH="coverage/pyFile$.coverage" NAME="日起计算 Coverage Results" MODIFIED="1566119462515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/python习题" />
+    <SUITE FILE_PATH="coverage/$6_lsargparse.coverage" NAME="6.把ls命令使用传参的方式和argparse结合 Coverage Results" MODIFIED="1557485158485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/用python做简单的ls命令" />
+    <SUITE FILE_PATH="coverage/$3.coverage" NAME="3车辆信息 Coverage Results" MODIFIED="1558064890582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/pyFile$1.coverage" NAME="1 Coverage Results" MODIFIED="1565406842074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/redis" />
+    <SUITE FILE_PATH="coverage/$1_argparser.coverage" NAME="1.了解argparser模块 Coverage Results" MODIFIED="1557389808099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/用python做简单的ls命令" />
+    <SUITE FILE_PATH="coverage/$6_.coverage" NAME="6.运算符重载 Coverage Results" MODIFIED="1558514950804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)" />
+    <SUITE FILE_PATH="coverage/$4__Mixin_.coverage" NAME="4.多继承(Mixin) Coverage Results" MODIFIED="1558423135333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/5。多继承" />
+    <SUITE FILE_PATH="coverage/$5_json.coverage" NAME="5.json处理 Coverage Results" MODIFIED="1556972282409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件处理" />
+    <SUITE FILE_PATH="coverage/pyFile$4_.coverage" NAME="4.模块的导入 Coverage Results" MODIFIED="1559207039250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.模块化/第一节/模块化代码" />
+    <SUITE FILE_PATH="coverage/$4_hash.coverage" NAME="4.hash方法 Coverage Results" MODIFIED="1558511272256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)" />
+    <SUITE FILE_PATH="coverage/magePython$5_.coverage" NAME="5.可迭代的斐波那契数列 Coverage Results" MODIFIED="1558794638165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/8.call方法可调用对象" />
+    <SUITE FILE_PATH="coverage/$5_lsargparse.coverage" NAME="5.把ls命令使用传参的方式和argparse结合 Coverage Results" MODIFIED="1557480996661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/用python做简单的ls命令" />
+    <SUITE FILE_PATH="coverage/pyFile$__.coverage" NAME="作业(链表) Coverage Results" MODIFIED="1558884069824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/5.多继承" />
+    <SUITE FILE_PATH="coverage/$2_2.coverage" NAME="2.2打印坐标 Coverage Results" MODIFIED="1558148494898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/练习" />
+    <SUITE FILE_PATH="coverage/pyFile$celery_test.coverage" NAME="celery_test Coverage Results" MODIFIED="1564109237707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16" />
+    <SUITE FILE_PATH="coverage/pyFile$oschina.coverage" NAME="登录oschina Coverage Results" MODIFIED="1564490325084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/selenium1" />
+    <SUITE FILE_PATH="coverage/$15_.coverage" NAME="15.异常抛出的中断 Coverage Results" MODIFIED="1558531792165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/$4_self.coverage" NAME="4.self的说明 Coverage Results" MODIFIED="1557975426876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类" />
+    <SUITE FILE_PATH="coverage/pyFile$3.coverage" NAME="3 Coverage Results" MODIFIED="1565420436735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/redis" />
+    <SUITE FILE_PATH="coverage/pyFile$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1566024900599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16/flask/webapp" />
+    <SUITE FILE_PATH="coverage/pyFile$5_setattr.coverage" NAME="5.使用魔术方法setattr为实例属性赋值 Coverage Results" MODIFIED="1559010782272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象进阶/4.反射" />
+    <SUITE FILE_PATH="coverage/$6_KeyboardInterrupt.coverage" NAME="6.KeyboardInterrupt Coverage Results" MODIFIED="1558451544167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象,类/6.异常处理" />
+    <SUITE FILE_PATH="coverage/magePython$1_newinit.coverage" NAME="1.new方法与init方法 Coverage Results" MODIFIED="1558767349430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/2.初始化方法new" />
+    <SUITE FILE_PATH="coverage/pyFile$1__.coverage" NAME="1.仿照打开文件方法,写一个上下文管理 Coverage Results" MODIFIED="1558834068728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/8.上下文管理" />
+    <SUITE FILE_PATH="coverage/$1_dir1.coverage" NAME="1.dir方法1 Coverage Results" MODIFIED="1558496484027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)" />
+    <SUITE FILE_PATH="coverage/magePython$animal.coverage" NAME="animal Coverage Results" MODIFIED="1558750779432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/1.查看属性的方法(dir)" />
+    <SUITE FILE_PATH="coverage/magePython$2_.coverage" NAME="2.类实例变可调用对对象 Coverage Results" MODIFIED="1558791817815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/7.面向对象的魔术方法(高阶)/8.call方法可调用对象" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="二分法插入列表 Coverage Results" MODIFIED="1558539961549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9面向对象,类/练习" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730195923[072.png" />
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730195807[015.png" />
+    <entry file="file://$PROJECT_DIR$/16/selenium1/ghostdriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730195952[100.png" />
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730201429[066.png" />
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730201430[042.png" />
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730201432[019.png" />
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730203754[017.png" />
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730203755[073.png" />
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730203853[041.png" />
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730203855[015.png" />
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730205743_054.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/selenium1/20190730210636_060.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/selenium1/selectBing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="52" selection-end-column="25" />
+          <folding>
+            <element signature="e#117#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/selenium1/登录oschina.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1552">
+          <caret line="102" column="15" selection-start-line="102" selection-start-column="15" selection-end-line="102" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/selenium1/selenium搜索豆瓣电影.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+          <folding>
+            <element signature="e#123#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4976">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/rabbitmq/5topic/ss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/error.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../面试题/机试题/链表.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六章文件IO/test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六章文件IO/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/software/Python/Python36/Lib/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="1546" column="8" selection-start-line="1546" selection-start-column="8" selection-end-line="1546" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/redis/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/redis/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/redis/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7文本处理/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7文本处理/缓冲区.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7文本处理/换行符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7文本处理/readfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/first/first/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/scrapy1/test1/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/scrapy1/test1/spiders/book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/first/first/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/first/first/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/first/first/spiders/book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/first/first/aa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/first/first/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/first/first/spiders/dbbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/flask/templates.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/flask/webapp/books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/flask/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六章文件IO/上下文管理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/flask/webapp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="7" selection-start-line="7" selection-end-line="29" />
+          <folding>
+            <element signature="e#120#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/flask/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/python习题/求两个字串的公共子串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1912" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/python习题/日起计算.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="66" selection-start-line="66" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/python习题/ip转化为二进制数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+#menu {
+    color: blue;
+    margin: auto;
+    background-color: rgb(255,255,255);
+    width: 90%;
+    border-bottom: #000000 solid 1px;  /*1像素 实线 白色*/
+    /*margin: 0px 1px 5px 0px;*/
+}
+
+.tclass {
+    color: pink;
+    margin: auto;
+    border-bottom: #000000 solid 1px;  /*1像素 实线 白色*/
+}
+
+
+h1,h2,h3,h4,h5{
+    color:green;
+}
+
+div li {
+    display: inline;
+}
+
+div #menu li{
+    /*display:inline-block;*/
+    color:red;
+    margin: 0 auto 0 auto;
+}
+
+ul > li{
+    display: contents;
+}
+
+div #menu ul > li {
+    border-bottom-color: black;
+}
+
+div.detail p+p {
+    color: green;
+}
+
